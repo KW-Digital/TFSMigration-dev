@@ -13,10 +13,6 @@ namespace TSFMigrationSample
             // Edited in kw-digital.visualstudio.com
             // And edited in ab-kwd-test.visualstudio.com
 
-            // EDIT 1
-            // EDIT 3
-            Console.WriteLine("Success!");
-
             Console.ReadLine();
         }
     }
